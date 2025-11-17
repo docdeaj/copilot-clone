@@ -6,6 +6,7 @@ A pixel-perfect clone of the Microsoft Copilot web interface, built with Next.js
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8?logo=tailwind-css)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 🔗 Links
 
@@ -127,6 +128,29 @@ copilot-clone/
 - Model selector dropdown (Smart GPT-5)
 - Microphone button for voice input
 
-## License
+## 🤝 Contributing
 
-This is a clone project for educational purposes. Microsoft Copilot and its design are trademarks of Microsoft Corporation.
+Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on how to submit pull requests, report issues, and contribute to the project.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'feat: Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Disclaimer**: This is an educational clone project created for learning purposes. Microsoft Copilot and its design are trademarks of Microsoft Corporation. This project is not affiliated with, endorsed by, or connected to Microsoft Corporation.
+
+## 🌟 Acknowledgments
+
+- Original design by [Microsoft Copilot](https://copilot.microsoft.com/)
+- Built with [Next.js](https://nextjs.org/)
+- Icons by [Lucide](https://lucide.dev/)
+- Generated with [Same](https://same.new/)
+
+---
+
+Made with ❤️ for educational purposes
